@@ -3,7 +3,7 @@
 
 
 
-            ### attrition
+### attrition
             Neural Network Dense model
             Picked X parameters
             shared layer: relu
@@ -13,7 +13,7 @@
             Attrition predictions accuracy: 0.796
             Department predictions accuracy: 0.560
 
-            ### attrition2
+### attrition2
             Neural Network Dense model
             X parameters per correlation() 
             shared layer: relu
@@ -25,7 +25,7 @@
             Attrition predictions accuracy: 0.818
             Department predictions accuracy: 0.587
 
-            ### attrition3
+### attrition3
             Neural Network Dense model
             X parameters per correlation()
             train_test_split, random_state=1
