@@ -1,7 +1,7 @@
 
 
 ### attrition
-Neural Network Dense model
+    Neural Network Dense model
     Picked X parameters
     shared layer: relu
     Attrition output: sigmoid
@@ -10,7 +10,7 @@ Neural Network Dense model
     Department predictions accuracy: 0.560
 
 ### attrition2
-Neural Network Dense model
+    Neural Network Dense model
     X parameters per correlation() 
     shared layer: relu
     input_layer = shape=(input_nodes,)
@@ -22,7 +22,7 @@ Neural Network Dense model
     Department predictions accuracy: 0.587
 
 ### attrition3
-Neural Network Dense model
+    Neural Network Dense model
     X parameters per correlation()
     train_test_split, random_state=1
     input_layer = X_df.shape[1]
