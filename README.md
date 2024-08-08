@@ -5,11 +5,18 @@ attrition
 Neural Network Dense model
 
 Picked X parameters
+
 shared layer: relu
+
 Attrition output: sigmoid
+
 Department output: sigmoid
+
 Attrition predictions accuracy: 0.796
+
 Department predictions accuracy: 0.560
+
+
 attrition2
 Neural Network Dense model
 
