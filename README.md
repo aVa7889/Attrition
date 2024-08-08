@@ -1,7 +1,7 @@
 # Attrition
 
 
-attrition
+## attrition
 Neural Network Dense model
 
 Picked X parameters
@@ -17,7 +17,7 @@ Attrition predictions accuracy: 0.796
 Department predictions accuracy: 0.560
 
 
-attrition2
+## attrition2
 
 Neural Network Dense model
 
@@ -38,7 +38,7 @@ Attrition predictions accuracy: 0.818
 
 Department predictions accuracy: 0.587
 
-attrition3
+## attrition3
 
 Neural Network Dense model
 
